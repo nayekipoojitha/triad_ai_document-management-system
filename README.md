@@ -306,5 +306,3 @@ triad-ai-dms/
 
 ---
 
-## 📄 License
-Created for the **TRIAD AI Full Stack Developer Internship Assessment**.
