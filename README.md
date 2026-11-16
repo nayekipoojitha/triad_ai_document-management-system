@@ -1,14 +1,6 @@
 # TRIAD AI — Document Management System (DMS)
 ### Full Stack Developer Internship — Take-Home Assignment
 
-[![Python 3.12](https://img.shields.io/badge/Python-3.12-blue.svg)](https://www.python.org/)
-[![Flask 3.1](https://img.shields.io/badge/Flask-3.1-black.svg)](https://flask.palletsprojects.com/)
-[![MongoDB 8.0](https://img.shields.io/badge/MongoDB-GridFS-green.svg)](https://www.mongodb.com/)
-[![React 18](https://img.shields.io/badge/React-18-cyan.svg)](https://react.dev/)
-[![Vite](https://img.shields.io/badge/Vite-6-purple.svg)](https://vitejs.dev/)
-[![Test Suite](https://img.shields.io/badge/Tests-27%2F27%20Passed-brightgreen.svg)](test_report.txt)
-
----
 
 ## 📌 Project Overview
 
